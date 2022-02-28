@@ -38,10 +38,11 @@ body {
 margin: 0px;
   text-align: center;
     font-family: 'Merriweather', serif;
+   background-color: #E0DDAA;
 }
 
 #ww2 {
-    background-color: #EEEDDE;
+    background-color: #E0DDAA;
   color: #8A39E1;
   text-align: center;
 height: 126px;
@@ -50,7 +51,7 @@ height: 126px;
 
 }
 .cloud1{
-  background-color: #EEEDDE;
+  background-color: #E0DDAA;
   width: 1860px;
   height: 1000px;
 
